@@ -1,0 +1,10 @@
+Date: 2013-12-31
+Computer: Filip's HP notebook
+
+Participant:
+Name: Tereza Bártková
+Age: 15 years
+
+Experiment software:
+ior commit: 66976ae0f37a74197c2e31507f5bac38abcc84dd
+ior tag: v1.0
